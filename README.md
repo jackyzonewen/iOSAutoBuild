@@ -9,7 +9,7 @@ $ sudo gem install fir-cli --no-ri --no-rdoc
 ### 使用
 > * 进入项目目录 
 > * 执行 
- ```python
+ ```
   $ python iOSAutoBuild.py --target=YOURTARGETNAME
   ```
 
