@@ -12,4 +12,8 @@ $ sudo gem install fir-cli --no-ri --no-rdoc
  ```
   $ python iOSAutoBuild.py --target=YOURTARGETNAME
   ```
+  
+
+### 注意
+发布模式需自行修改,默认InHouse发布
 
