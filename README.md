@@ -7,6 +7,7 @@ $ sudo gem install fir-cli --no-ri --no-rdoc
 ```
 
 ### 使用
+> * xcode中配置好证书
 > * 将脚本拖进项目目录 
 > * 执行 
  ```
@@ -15,5 +16,5 @@ $ sudo gem install fir-cli --no-ri --no-rdoc
   
 
 ### 注意
-发布模式需自行修改,默认InHouse发布
+脚本中的发布模式需自行修改,默认InHouse发布
 
